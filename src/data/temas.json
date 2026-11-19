@@ -1,0 +1,37 @@
+[
+  {
+    "id": "leg",
+    "nome": "Legislação de trânsito",
+    "descricao": "Habilitação, infrações, pontos, penalidades, normas de circulação"
+  },
+  {
+    "id": "sin",
+    "nome": "Sinalização",
+    "descricao": "Placas, marcas no chão, semáforo, apito e gestos"
+  },
+  {
+    "id": "alc",
+    "nome": "Álcool e crimes de trânsito",
+    "descricao": "Bafômetro, exame de sangue, Lei Seca, crimes do CTB"
+  },
+  {
+    "id": "dd",
+    "nome": "Direção defensiva",
+    "descricao": "Condições adversas, distâncias, aquaplanagem, colisões"
+  },
+  {
+    "id": "ps",
+    "nome": "Primeiros socorros",
+    "descricao": "Sinalizar o local, acionar socorro, cuidados com a vítima"
+  },
+  {
+    "id": "ma",
+    "nome": "Meio ambiente e cidadania",
+    "descricao": "Poluição, descarte, convívio no trânsito"
+  },
+  {
+    "id": "mec",
+    "nome": "Mecânica básica",
+    "descricao": "Motor, arrefecimento, freios, elétrica, pneus"
+  }
+]
